@@ -224,7 +224,7 @@ const Home: React.FC = () => {
                           <h2 className="text-2xl font-bold mx-auto mb-2">
                             Contact Me
                           </h2>
-                          <p>Let&apo;s bulid something great together. 👇 </p>
+                          <p>Let&apos;s bulid something great together. 👇 </p>
                         </div>
                         <div className="space-y-4 grid place-items-center">
                           <div>

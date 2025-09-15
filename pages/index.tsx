@@ -138,7 +138,7 @@ const Home: React.FC = () => {
                 code.
               </h3>
               <h3 className="flex text-xl font-semibold bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 bg-clip-text text-transparent font pb-4">
-                I'm a&nbsp;
+                I&apos;m a&nbsp;
                 <Typewriter
                   options={{
                     strings: [
@@ -224,7 +224,7 @@ const Home: React.FC = () => {
                           <h2 className="text-2xl font-bold mx-auto mb-2">
                             Contact Me
                           </h2>
-                          <p>Let's bulid something great together. 👇 </p>
+                          <p>Let&apo;s bulid something great together. 👇 </p>
                         </div>
                         <div className="space-y-4 grid place-items-center">
                           <div>

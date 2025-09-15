@@ -130,7 +130,7 @@ const Home: React.FC = () => {
           <div className="flex flex-col-reverse md:justify-evenly items-center md:flex-row pb-10">
             <div id="#">
               <h1 className="text-3xl text-center sm:text-left font-bold pb-4">
-                Hi, I'm Sahil 👋
+                Hi, I&apos;m Sahil 👋
               </h1>
               <h3 className="text-md text-center sm:text-left pb-5">
                 Engineer by craft, entrepreneur by vision. <br /> Building
